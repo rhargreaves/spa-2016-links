@@ -9,7 +9,7 @@
 
 ######
 
-#### Acceptance Test Suite
+#### Acceptance test suite
 
 https://github.com/rhargreaves/spa-demo-test-suite
 
