@@ -4,7 +4,10 @@
 
 #### Customer site
 
-http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/
+* Front end: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/
+* API: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/counter
+
+######
 
 #### Acceptance Test Suite
 
