@@ -9,7 +9,7 @@
 ## Fastly Resources
 
 * Fastly: http://www.fastly.com/
-* 
+
 * Dashboard: https://app.fastly.com/
 
 ### New Service Details
