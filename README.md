@@ -29,6 +29,8 @@ https://github.com/rhargreaves/spa-demo-test-suite
 
 ### VCL Reference
 
+* VCL syntax: https://www.varnish-cache.org/docs/trunk/users-guide/vcl-syntax.html
+
 * Fastly VCL Boilerplate: https://docs.fastly.com/guides/vcl/mixing-and-matching-fastly-vcl-with-custom-vcl
 
 * Changing TTLs in VCL: https://www.fastly.com/blog/overriding-origin-ttl-varnish-or-my-beginners-mistake
