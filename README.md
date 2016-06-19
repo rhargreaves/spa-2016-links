@@ -6,9 +6,19 @@
 
 * Acceptance test suite: https://github.com/rhargreaves/spa-demo-test-suite
 
-## Reference
+## Fastly Resources
 
-* Fastly: http://www.fastly.com/
+Fastly: http://www.fastly.com/
+Dashboard: https://app.fastly.com/
+
+### New Service Details
+
+Service:	your_name
+Domain:		your_name.spa2016demo.com
+Backend:	robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com:80
+Test URL:	http://your_name.spa2016demo.com.global.prod.fastly.net
+
+### VCL Reference
 
 * Fastly VCL Boilerplate: https://docs.fastly.com/guides/vcl/mixing-and-matching-fastly-vcl-with-custom-vcl
 
