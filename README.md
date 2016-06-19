@@ -2,14 +2,17 @@
 
 ## Resources
 
-* Customer site: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/
+#### Customer site
 
-* Acceptance test suite: https://github.com/rhargreaves/spa-demo-test-suite
+http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/
 
-## Fastly Resources
+#### Acceptance Test Suite
+
+https://github.com/rhargreaves/spa-demo-test-suite
+
+## Fastly
 
 * Fastly: http://www.fastly.com/
-
 * Dashboard: https://app.fastly.com/
 
 ### New Service Details
