@@ -8,15 +8,18 @@
 
 ## Fastly Resources
 
-Fastly: http://www.fastly.com/
-Dashboard: https://app.fastly.com/
+* Fastly: http://www.fastly.com/
+* 
+* Dashboard: https://app.fastly.com/
 
 ### New Service Details
 
-Service:	your_name
-Domain:		your_name.spa2016demo.com
-Backend:	robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com:80
-Test URL:	http://your_name.spa2016demo.com.global.prod.fastly.net
+| Field       | Value          |
+|-------------|:---------------|
+| Service Name   | your_name |
+| Domain      | your_name.spa2016demo.com |
+| Backend     | robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com:80 |
+| Test URL    | http://your_name.spa2016demo.com.global.prod.fastly.net |
 
 ### VCL Reference
 
