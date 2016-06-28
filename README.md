@@ -9,6 +9,7 @@ $ docker pull rhargreaves/varnishtest
 $ git clone git@github.com:rhargreaves/spa-demo-test-suite.git
 $ cd spa-demo-test-suite
 $ docker-compose pull
+$ docker-compose build
 ```
 
 #### Customer site
