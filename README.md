@@ -6,7 +6,9 @@
 
 ```
 $ docker pull rhargreaves/varnishtest
-$ docker pull rhargreaves/spa-demo-test-suite
+$ git clone git@github.com:rhargreaves/spa-demo-test-suite.git
+$ cd spa-demo-test-suite
+$ docker-compose pull
 ```
 
 #### Customer site
