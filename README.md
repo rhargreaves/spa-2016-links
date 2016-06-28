@@ -17,9 +17,7 @@ $ docker-compose build
 * Front end: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/
 * API: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/counter
 
-### Acceptance test suite
-
-https://github.com/rhargreaves/spa-demo-test-suite
+### [Acceptance test suite](https://github.com/rhargreaves/spa-demo-test-suite)
 
 #### Completed acceptance test gists:
 
@@ -47,7 +45,7 @@ Or you can download the [completed suite](https://github.com/rhargreaves/spa-dem
 
 ## VCL Tools
 
-* Dockerised Varnish Test Tool: https://github.com/rhargreaves/vcl-testing
+* Docker-ised Varnishtest: https://github.com/rhargreaves/varnishtest
 
 ## VCL Reference
 
