@@ -24,10 +24,10 @@ https://github.com/rhargreaves/spa-demo-test-suite
 
 #### Completed Gists
 
-Acceptance Test 2 - Site Loads Under 2 Seconds
+Acceptance Test 2: Site Loads Under 2 Seconds
 https://gist.github.com/rhargreaves/f28af1d07bd5382d02d588c7732be966
 
-Acceptance Test 3 - Has Up-To-Date Counter
+Acceptance Test 3: Has Up-To-Date Counter
 https://gist.github.com/rhargreaves/400265fdfd35a973e143e26684d046b8
 
 ## Fastly
