@@ -2,7 +2,7 @@
 
 ## Resources
 
-#### Pull Docker Images!
+### Pull Docker Images!
 
 ```
 $ docker pull rhargreaves/varnishtest
@@ -12,14 +12,12 @@ $ docker-compose pull
 $ docker-compose build
 ```
 
-#### Customer site
+### Customer site
 
 * Front end: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/
 * API: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/counter
 
-######
-
-#### Acceptance test suite
+### Acceptance test suite
 
 https://github.com/rhargreaves/spa-demo-test-suite
 
