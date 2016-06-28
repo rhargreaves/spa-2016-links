@@ -23,13 +23,15 @@ $ docker-compose build
 
 https://github.com/rhargreaves/spa-demo-test-suite
 
-#### Completed acceptance tests:
+#### Completed acceptance test gists:
 
  1) Site Loads: https://gist.github.com/rhargreaves/34b344251a3986024aef34bfc11a9ee7
 
  2) Site Loads In Under 2 Seconds: https://gist.github.com/rhargreaves/f28af1d07bd5382d02d588c7732be966
 
  3) Has Up-To-Date Counter: https://gist.github.com/rhargreaves/400265fdfd35a973e143e26684d046b8
+
+Or you can download the [completed suite](https://github.com/rhargreaves/spa-demo-test-suite/tree/complete)
 
 ## Fastly
 
