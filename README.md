@@ -45,6 +45,10 @@ Or you can download the [completed suite](https://github.com/rhargreaves/spa-dem
 | Backend     | robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com:80 |
 | Test URL    | http://your_name.spa2016demo.com.global.prod.fastly.net |
 
+## VCL Tools
+
+* Dockerised Varnish Test Tool: https://github.com/rhargreaves/vcl-testing
+
 ## VCL Reference
 
 * VCL syntax: https://www.varnish-cache.org/docs/trunk/users-guide/vcl-syntax.html
