@@ -2,6 +2,13 @@
 
 ## Resources
 
+#### Pull Docker Images!
+
+```
+$ docker pull rhargreaves/varnishtest
+$ docker pull rhargreaves/spa-demo-test-suite
+```
+
 #### Customer site
 
 * Front end: http://robh-spa-2016-demo-site.eu-west-1.elasticbeanstalk.com/
