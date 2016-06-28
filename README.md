@@ -22,7 +22,7 @@ $ docker-compose pull
 
 https://github.com/rhargreaves/spa-demo-test-suite
 
-###### Completed Gists
+#### Completed Gists
 
 TODO
 
